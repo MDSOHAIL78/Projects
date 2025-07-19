@@ -1,0 +1,3 @@
+-->first run command "./createshell.sh"
+-->first run command "./keylogger.sh"
+-->first run command "./meterpreter.sh"

@@ -1,0 +1,4 @@
+-->>first install python in u r machine
+-->>pip install keyboard
+-->>python3 keylog.py
+-->>cat keyclick.log 
